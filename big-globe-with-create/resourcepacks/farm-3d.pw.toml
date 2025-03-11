@@ -1,0 +1,13 @@
+name = "Farm 3D"
+filename = "3D Farm.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pb23xuCB/versions/GSvBAAZG/3D%20Farm.zip"
+hash-format = "sha512"
+hash = "995b3426eaaac383adc520797d989c9139a3e2562d822f776d36f4d942071d59bf660243289c38b11b4179ee9fb50d3ba58aaeba48780b6daf95a61dd2530306"
+
+[update]
+[update.modrinth]
+mod-id = "Pb23xuCB"
+version = "GSvBAAZG"
