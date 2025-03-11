@@ -156,6 +156,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "a2d4031a1a3c3ea5fb5a35b0164a93a0c73955d87ad1223ac73e0a00a70c8bd1"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
 metafile = true
 
 [[files]]
