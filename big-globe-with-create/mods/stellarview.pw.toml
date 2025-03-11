@@ -1,0 +1,13 @@
+name = "Stellar View"
+filename = "Stellar View-1.21.1-0.4.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iairjv0A/versions/sTzQz9NA/Stellar%20View-1.21.1-0.4.4.jar"
+hash-format = "sha512"
+hash = "cff425c04a9c6b83d8a16b8db0ecf7ec5f32d57e70fd13ad9d929ceadc6550aa5acf561908e9294da3c0da83e134dd8df2f9566b294bc58aae9a170e42acfb7b"
+
+[update]
+[update.modrinth]
+mod-id = "Iairjv0A"
+version = "sTzQz9NA"
