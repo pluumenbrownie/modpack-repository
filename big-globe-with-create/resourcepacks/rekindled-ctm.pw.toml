@@ -1,0 +1,13 @@
+name = "Rekindled CTM"
+filename = "Rekindled_CTM.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3geCj8B/versions/l9K5PclZ/Rekindled_CTM.zip"
+hash-format = "sha512"
+hash = "448c0cba92f7ea68c9dfa6a29d8be5a1dd907bf470ef2d3d8e2154b2569000cb1432a26242fb7e875bcb0d04b7bfd3a6e5cb972a31d20f818c0e759fcfe25042"
+
+[update]
+[update.modrinth]
+mod-id = "V3geCj8B"
+version = "l9K5PclZ"

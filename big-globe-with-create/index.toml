@@ -371,6 +371,16 @@ hash = "558138f69712448e20cc3c8d72d4a749a175ce5c222913d4fbc009c5a3466651"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rekindled-ctm.pw.toml"
+hash = "6ab9a33eadc5f00eab04d2177d2ffd7c119abc8ca593da3f7dad2ed9f8ce3946"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
