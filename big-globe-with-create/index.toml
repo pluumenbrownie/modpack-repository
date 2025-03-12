@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/Big Globe - CTOV Compat.zip"
+hash = "e57c6d267afc36dc62ab35e51e71a3decbf9b37da4c2de061159c125f284a332"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - DnT Compat.zip"
+hash = "1431c4cd44d074ab900fee2ae622e00ee2cf7ef00c73931ffe373a89eae335df"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - Hopo Ocean Ruins Compat.zip"
+hash = "bdd2e2c9708adff971a3ca6a0fcd1702fa9af64efe03b359e241e7f1b20ddc28"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - Philips Ruins Compat.zip"
+hash = "69cbaf0982a7cd67be6ba9067e29282cfcdec8f353bb1cf5ea7c7e863d6d6849"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe V4.5.0_ Create 0.5.1-f-build.1417 Compatibility.zip"
+hash = "dd7f980ca424edab1bbaa3af0596c488ae4fc9a7e51c4cf288eb31ed4e7bc45c"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
+hash = "2309d7e90ff643a6194b30e0dd0117158ee8b7c5843103f7ce077541b1c97344"
+
+[[files]]
+file = "config/paxi/resourcepacks/Big_Globe_retex_by_shes_long_1.2.zip"
+hash = "1fb66db49b86b5530b2f6c54b8927d58316d6b5ba3f94fa20ee8fe2586d79c00"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -81,8 +109,23 @@ hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "5969466d47d5673feef1bdcd1dcd6539fdf11c0d99c019c132c8ae4108e0a2c0"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ca7aaf32075a904c16620da9892290c28b10abba05673fa30781422393b02a6a"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "f1e718665206f70e65da7439d3cfd181d44a78df33abef8fa7748e9c297fd43f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
@@ -136,6 +179,11 @@ hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "866c89ee309cca9c0f444c8a0ac6be5cd87ccf39c77f6245376a1f694c191c83"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
 metafile = true
@@ -178,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
@@ -233,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "74d96b4361faf4457a439bcc2a1656625a22dfc656164091e89a3ba676880867"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "2488bf19149e671ab9fc63823029b19ebae6c4eeabb7ff748c0be341758a246b"
 metafile = true
 
 [[files]]
@@ -293,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "45d3b1874f064f67f574426825eed4eb5ca6699d37f12e63192814bf85ad5087"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0cbfee517ef794590c79f407c060a42f9719e8533f730411761d3d429463af03"
 metafile = true
 
 [[files]]
