@@ -19,6 +19,7 @@ jobs:
   temp-file-test:
     runs-on: ubuntu-latest
     steps:
+      - run: echo ${{ runner.temp }} 
       - run: echo "testing" > ${{ runner.temp }}/temp1.md
       - run: echo "testing more" > ${{ runner.temp }}/temp2.md
       - run: ls ${{ runner.temp }}
