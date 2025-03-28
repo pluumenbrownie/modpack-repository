@@ -25,19 +25,23 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - name: Install mdBook
+      # - uses: actions/checkout@v4
+      # - name: Install mdBook
+      #   run: |
+      #     curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
+      #     rustup update
+      #     cargo install --version ${MDBOOK_VERSION} mdbook
+      # - name: Setup Pages
+      #   id: pages
+      #   uses: actions/configure-pages@v5
+      # - name: Initialize new mdBook
+      #   run: mdbook init
+      # - name: Build with mdBook
+      #   run: mdbook build --dest-dir output
+      - name: create test site
         run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-          cargo install --version ${MDBOOK_VERSION} mdbook
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - name: Initialize new mdBook
-        run: mdbook init
-      - name: Build with mdBook
-        run: mdbook build --dest-dir output
+          mkdir output
+          echo "testing" > output/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
