@@ -1,0 +1,32 @@
+name: Build Repository Pages
+
+run-name: Building and publishing new repository pages.
+
+on: 
+  push:
+    branches: [$default-branch]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy-pages:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - run: echo ${{ runner.temp }} 
+      - run: echo "testing" > ${{ runner.temp }}/temp1.md
+      - run: echo "testing more" > ${{ runner.temp }}/temp2.md
+      - run: ls ${{ runner.temp }}
+      - run: ls .
+        
+        
