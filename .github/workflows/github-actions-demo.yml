@@ -16,3 +16,7 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+  temp-file-test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ls /temp
