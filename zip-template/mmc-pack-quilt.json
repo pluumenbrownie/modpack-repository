@@ -1,0 +1,14 @@
+{
+    "components": [
+        {
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "mc-version"
+        },
+        {
+            "uid": "org.quiltmc.quilt-loader",
+            "version": "loader-version"
+        }
+    ],
+    "formatVersion": 1
+}
