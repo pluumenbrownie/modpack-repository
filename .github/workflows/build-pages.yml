@@ -46,12 +46,12 @@ jobs:
           echo -e '[book]\ntitle = "Success"' > book.toml
           cat book.toml
           echo -e '[Overview](overview.md)' > src/SUMMARY.md
-          echo -e '[Overview](overview.md)' > src/overview.md
-          
+          for path in $(find . -type d -ipath "*/pack.toml"); do echo $path done
+          echo -e 'Something overviewing' > src/overview.md
       - name: Build with mdBook
         run: mdbook build
       - name: Show current directory structure
-        run: ls -l book
+        run: ls -l src
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
