@@ -40,9 +40,12 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Create test site
         run: mdbook init
+      - name: Show current directory structure
+        run: ll
       - name: Write pages
         run: |
           echo '[book]\ntitle = \"My First Book\"' > book.toml
+          cat book.toml
       - name: Build with mdBook
         run: mdbook build
       - name: Show current directory structure
