@@ -41,7 +41,7 @@ jobs:
       - name: Create test site
         run: mdbook init
       - name: Show current directory structure
-        run: ll
+        run: ls -l
       - name: Write pages
         run: |
           echo '[book]\ntitle = \"My First Book\"' > book.toml
