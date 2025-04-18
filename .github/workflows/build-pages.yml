@@ -46,7 +46,7 @@ jobs:
           echo -e '[book]\ntitle = "Success"' > book.toml
           cat book.toml
           echo -e '[Overview](overview.md)' > src/SUMMARY.md
-          for path in $(find . -type d -ipath "*/pack.toml"); do echo $path done
+          for path in $(find . -type d -ipath "*/pack.toml"); do echo $path; done
           echo -e 'Something overviewing' > src/overview.md
       - name: Build with mdBook
         run: mdbook build
