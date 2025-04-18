@@ -5,7 +5,8 @@ run-name: Building and publishing new repository pages.
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: [$default-branch]
+    paths: 
+      - '.github/*'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -44,7 +45,7 @@ jobs:
         run: ls -l
       - name: Write pages
         run: |
-          echo '[book]\ntitle = \"My First Book\"' > book.toml
+          echo -e '[book]\ntitle = \"My First Book\"' > book.toml
           cat book.toml
       - name: Build with mdBook
         run: mdbook build
