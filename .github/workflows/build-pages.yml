@@ -45,10 +45,13 @@ jobs:
         run: |
           echo -e '[book]\ntitle = "Success"' > book.toml
           cat book.toml
+          echo -e '[Overview](overview.md)' > src/SUMMARY.md
+          echo -e '[Overview](overview.md)' > src/overview.md
+          
       - name: Build with mdBook
         run: mdbook build
       - name: Show current directory structure
-        run: ll
+        run: ls -l book
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
