@@ -16,6 +16,8 @@
       nativeBuildInputs = with pkgs; [
         toml-cli
         mdbook
+        shfmt
+        shellcheck
       ];
     };
 
