@@ -18,6 +18,7 @@
         mdbook
         shfmt
         shellcheck
+        zip
       ];
     };
 
