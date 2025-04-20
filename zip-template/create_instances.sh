@@ -53,11 +53,11 @@ create_zip() {
 export -f create_zip
 
 find . -type d -exec test -e '{}'/pack.toml \; \
-    -exec sh -c 'set_mmc_pack $1' sh {}/pack.toml \; \
-    -exec sh -c 'set_instance_cfg $1 $2 $3' sh {} {}/pack.toml "$REPO_URL" \; \
-    -exec sh -c 'create_zip $1' sh {} \; \
-    -exec sh -c 'set_instance_cfg $1 $2 $3 $4' sh {} {}/pack.toml $LOCAL_URL "Local Test"\; \
-    -exec sh -c 'create_zip $1' sh {}-local \; \
-    -exec sh -c 'echo "$1 processed succesfully."' sh {} \;
+    -exec bash -c 'set_mmc_pack $1' bash {}/pack.toml \; \
+    -exec bash -c 'set_instance_cfg $1 $2 $3' bash {} {}/pack.toml "$REPO_URL" \; \
+    -exec bash -c 'create_zip $1' bash {} \; \
+    -exec bash -c 'set_instance_cfg $1 $2 $3 $4' bash {} {}/pack.toml $LOCAL_URL "Local Test"\; \
+    -exec bash -c 'create_zip $1' bash {}-local \; \
+    -exec bash -c 'echo "$1 processed succesfully."' bash {} \;
 
 # rm -r $CURRENT
