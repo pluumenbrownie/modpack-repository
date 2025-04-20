@@ -32,9 +32,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Print environment info.
         run: |
-          which bash
-          help export
-          cat ~/.bashrc
+          which sh
       - name: Install mdBook and toml
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
