@@ -1,10 +1,12 @@
 #! /bin/bash
 # shellcheck disable=SC2016
 
+help export
+
 remove_dotslash() {
     echo "$1" | sed s/\\.\\///g
 }
-export remove_dotslash
+export -f remove_dotslash
 
 detect_modloader() {
     LOADER="failed"
@@ -14,12 +16,12 @@ detect_modloader() {
     toml get -r "$1" versions.fabric >/dev/null && LOADER="fabric"
     echo "$LOADER"
 }
-export detect_modloader
+export -f detect_modloader
 
 print_modloader() {
     echo "$(detect_modloader $1/pack.toml) ($(toml get -r $1/pack.toml versions.$(detect_modloader $1/pack.toml)))"
 }
-export print_modloader
+export -f print_modloader
 
 # Write the metadata file book.toml
 echo '[book]' >book.toml
