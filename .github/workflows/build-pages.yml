@@ -41,6 +41,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Show current directory structure
         run: ls -l
+      - name: Print environment info.
+        run: |
+          which bash
+          help export
       - name: Write pages
         run: bash ./zip-template/create_pages.sh
       - name: Create instance zips
