@@ -40,7 +40,7 @@ find . -type d -exec test -e '{}'/pack.toml \; \
     -exec bash -c 'echo "" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "Or copy the link:" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "\`\`\`text" >>src/$1.md' bash {} \; \
-    -exec bash -c 'echo "<./download/$(remove_dotslash $1).zip>" >>src/$1.md' bash {} \; \
+    -exec bash -c 'echo "$REPO_URL/download/$(remove_dotslash $1).zip" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "\`\`\`" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "## How to install" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "1. Download the .zip archive above." >>src/$1.md' bash {} \; \
