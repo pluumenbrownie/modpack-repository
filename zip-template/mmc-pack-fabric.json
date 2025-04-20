@@ -3,11 +3,11 @@
         {
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.21.2"
+            "version": "mc-version"
         },
         {
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.16.10"
+            "version": "loader-version"
         }
     ],
     "formatVersion": 1

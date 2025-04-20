@@ -39,16 +39,18 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Create test site
-        run: mdbook init
       - name: Show current directory structure
         run: ls -l
       - name: Write pages
         run: sh ./zip-template/create_pages.sh
+      - name: Create instance zips
+        run: sh ./zip-template/create_instances.sh
       - name: Build with mdBook
         run: mdbook build
+      - name: Write pages
+        run: sh ./zip-template/load_packs_and_downloads.sh
       - name: Show current directory structure
-        run: ls -l src
+        run: ls -l book
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -3,11 +3,11 @@
         {
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.21.5"
+            "version": "mc-version"
         },
         {
             "uid": "net.neoforged",
-            "version": "21.5.6-beta"
+            "version": "loader-version"
         }
     ],
     "formatVersion": 1
