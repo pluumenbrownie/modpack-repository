@@ -1,7 +1,6 @@
 #! /bin/bash
 # shellcheck disable=SC2016
 
-# export REPO_URL='https://pluumenbrownie.github.io/modpack-repository'
 export LOCAL_URL='http://localhost:8080'
 
 export TEMPLATES=zip-template

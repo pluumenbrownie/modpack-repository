@@ -3,11 +3,6 @@ name: Build Repository Pages
 run-name: Building and publishing new repository pages.
 
 on: [push]
-  # Runs on pushes targeting the default branch
-  # push:
-
-  # Allows you to run this workflow manually from the Actions tab
-  # workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -37,26 +32,20 @@ jobs:
         run: |
           REPO_URL="${{ steps.pages.outputs.base_url }}"
           echo "REPO_URL=${REPO_URL}" >> $GITHUB_ENV
-      - name: Read REPO_URL variable
-        run: echo "$REPO_URL"
       - name: Install mdBook and toml
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install --version ${MDBOOK_VERSION} mdbook
           cargo install --version  ${TOML_VERSION} toml-cli
-      - name: Show current directory structure
-        run: ls -l
       - name: Write pages
         run: bash ./zip-template/create_pages.sh
       - name: Create instance zips
         run: bash ./zip-template/create_instances.sh
       - name: Build with mdBook
         run: mdbook build
-      - name: Write pages
+      - name: Copy packs into the website directory
         run: bash ./zip-template/load_packs_and_downloads.sh
-      - name: Show current directory structure
-        run: ls -l book
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
