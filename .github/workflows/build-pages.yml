@@ -34,6 +34,7 @@ jobs:
         run: |
           which bash
           help export
+          cat ~/.bashrc
       - name: Install mdBook and toml
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
