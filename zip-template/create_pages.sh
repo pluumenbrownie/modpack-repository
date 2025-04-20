@@ -39,9 +39,9 @@ find . -type d -exec test -e '{}'/pack.toml \; \
     -exec bash -c 'echo "| **Download:** | [Download $(toml get -r $1/pack.toml name)](./download/$(remove_dotslash $1).zip) |" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "Or copy the link:" >>src/$1.md' bash {} \; \
-    -exec bash -c 'echo "```" >>src/$1.md' bash {} \; \
+    -exec bash -c 'echo "\`\`\`text" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "<./download/$(remove_dotslash $1).zip>" >>src/$1.md' bash {} \; \
-    -exec bash -c 'echo "```" >>src/$1.md' bash {} \; \
+    -exec bash -c 'echo "\`\`\`" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "## How to install" >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "1. Download the .zip archive above." >>src/$1.md' bash {} \; \
     -exec bash -c 'echo "2. Import this archive as an instance in your launcher." >>src/$1.md' bash {} \; \
