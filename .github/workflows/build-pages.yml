@@ -34,7 +34,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Set REPO_URL variable
-        run: export REPO_URL="${{ steps.pages.outputs.base_url }}"
+        run: |
+          REPO_URL="${{ steps.pages.outputs.base_url }}"
+          echo "REPO_URL=${REPO_URL}" >> $GITHUB_ENV
       - name: Read REPO_URL variable
         run: echo "$REPO_URL"
       - name: Install mdBook and toml
