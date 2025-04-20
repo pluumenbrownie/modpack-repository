@@ -54,7 +54,7 @@ find . -type d -exec test -e '{}'/pack.toml \; \
     -exec bash -c 'set_mmc_pack $1' bash {}/pack.toml \; \
     -exec bash -c 'set_instance_cfg $1 $2 $3' bash {} {}/pack.toml "$REPO_URL" \; \
     -exec bash -c 'create_zip $1' bash {} \; \
-    -exec bash -c 'set_instance_cfg $1 $2 $3' bash {} {}/pack.toml $LOCAL_URL \; \
+    -exec bash -c 'set_instance_cfg $1 $2 $3' bash '.' {}/pack.toml $LOCAL_URL \; \
     -exec bash -c 'create_zip $1' bash {}-local \; \
     -exec bash -c 'echo "$1 processed succesfully."' bash {} \;
 

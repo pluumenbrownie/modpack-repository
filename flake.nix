@@ -20,6 +20,10 @@
         shellcheck
         zip
       ];
+
+      env = {
+        REPO_URL = "https://pluumenbrownie.github.io/modpack-repository";
+      };
     };
 
     doCheck = false;
