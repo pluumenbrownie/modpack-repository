@@ -309,6 +309,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "0725221b589983fa935a0645d65cbd8782f44ebb3d21b6c42ab9a17c9fcf646f"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
 metafile = true
@@ -344,8 +349,18 @@ hash = "9fd8a776007787ce2f9015d2371abf3891b7cc070ba10f233205548ebc6dd82a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/stellarview.pw.toml"
 hash = "cb6caf5126ecd0fae7734e82994f65ea9e1c97577a2a47c707737a54c5c55109"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "b4cb2728813694e9f1272c3aa392698d8f864c599e56043444fc03bbef356330"
 metafile = true
 
 [[files]]
@@ -361,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a9c466cd6b58f1b584239cdce99f9a153507c4a51ceb7060399eb068600e1c3e"
 metafile = true
 
 [[files]]
