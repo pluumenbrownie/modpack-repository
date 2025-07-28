@@ -1,0 +1,13 @@
+name = "Big Globe Compat - ChoiceTheorem's Overhauled Village"
+filename = "Big Globe - CTOV Compat 1.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OwP8uNp/versions/tYNpZ7Zr/Big%20Globe%20-%20CTOV%20Compat%201.1.1.zip"
+hash-format = "sha512"
+hash = "4ea1e82e0bd1daedbc678832b86c4d948ef21b6515171296c7926d83cabd20d504cf34c3ab43dbcda5474a29b5264556d28bfe71a1ba371dcfeb4d903e886fd1"
+
+[update]
+[update.modrinth]
+mod-id = "1OwP8uNp"
+version = "tYNpZ7Zr"

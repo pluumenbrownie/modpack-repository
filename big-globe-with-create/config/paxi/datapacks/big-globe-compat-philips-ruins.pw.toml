@@ -1,0 +1,13 @@
+name = "Big Globe Compat - Philip's Ruins"
+filename = "Big Globe - Philips Ruins Compat 1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1UuWpNqV/versions/RhZwlxpj/Big%20Globe%20-%20Philips%20Ruins%20Compat%201.1.0.zip"
+hash-format = "sha512"
+hash = "c062eb47ce8894dd003a75caee35f55b42c590df16fb55bc90be5b0261c686be7f3f9c1181f6ce47ea92c9482748353641a0277c1979e5ae2bf1625f76447659"
+
+[update]
+[update.modrinth]
+mod-id = "1UuWpNqV"
+version = "RhZwlxpj"

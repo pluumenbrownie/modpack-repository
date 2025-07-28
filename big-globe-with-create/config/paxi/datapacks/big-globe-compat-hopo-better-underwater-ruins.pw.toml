@@ -1,0 +1,13 @@
+name = "Big Globe Compat - Hopo Better Underwater Ruins"
+filename = "Big Globe - Hopo Better Underwater Ruins 1.2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cFscbbJ0/versions/SgsbuLAH/Big%20Globe%20-%20Hopo%20Better%20Underwater%20Ruins%201.2.0.zip"
+hash-format = "sha512"
+hash = "3206e974cb1d1b9c9f98fe25e24c25187932f47a5a7860737a3a2d63d25464b317e630ac14007c5ed0e2ec5f9f5649db0b3718c9c701ec3b603530e13fb683e5"
+
+[update]
+[update.modrinth]
+mod-id = "cFscbbJ0"
+version = "SgsbuLAH"

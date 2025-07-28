@@ -1,28 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe - CTOV Compat.zip"
-hash = "e57c6d267afc36dc62ab35e51e71a3decbf9b37da4c2de061159c125f284a332"
+file = "config/paxi/datapacks/Big Globe V5.0.6_ Create 6.0.6.zip"
+hash = "0cc248115301e0e2da6865465e54bc06aa292b666622e4902f096809d73e245b"
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe - DnT Compat.zip"
-hash = "1431c4cd44d074ab900fee2ae622e00ee2cf7ef00c73931ffe373a89eae335df"
+file = "config/paxi/datapacks/big-globe-compat-choicetheorems-overhauled-village.pw.toml"
+hash = "3abd55fa9c04eb35afa5c9e59ffdb57ef211da73e74a2aed071968e7f15a5e15"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe - Hopo Ocean Ruins Compat.zip"
-hash = "bdd2e2c9708adff971a3ca6a0fcd1702fa9af64efe03b359e241e7f1b20ddc28"
+file = "config/paxi/datapacks/big-globe-compat-dungeons-and-taverns.pw.toml"
+hash = "7d843a14073b5f0dca2db43f9ad7d820dbb96daf2355f4000150868fe597dc2b"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe - Philips Ruins Compat.zip"
-hash = "69cbaf0982a7cd67be6ba9067e29282cfcdec8f353bb1cf5ea7c7e863d6d6849"
+file = "config/paxi/datapacks/big-globe-compat-hopo-better-underwater-ruins.pw.toml"
+hash = "cb96537bdbb50dbdeaf88a637dccb87e2ee6fe4ace7abf2c8f8494cb2170f6af"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe V4.5.0_ Create 0.5.1-f-build.1417 Compatibility.zip"
-hash = "dd7f980ca424edab1bbaa3af0596c488ae4fc9a7e51c4cf288eb31ed4e7bc45c"
+file = "config/paxi/datapacks/big-globe-compat-philips-ruins.pw.toml"
+hash = "dc5ff79f664ba007baabaf7db787b8e8cfc35db37d329d86af0b950398ab515e"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
-hash = "2309d7e90ff643a6194b30e0dd0117158ee8b7c5843103f7ce077541b1c97344"
+file = "config/paxi/datapacks/bigglobe_tidaltowns_for_V5.0.6.zip"
+hash = "af81360ae2867e490f9653d687da9b7d12604b10051531f138f527fe59be8abd"
 
 [[files]]
 file = "config/paxi/resourcepacks/Big_Globe_retex_by_shes_long_1.2.zip"
@@ -55,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "459749be3bdf15c1570dd2ae3b7e4a71c24b4485a58486b3ff942fd396578735"
+hash = "da5008fa51c757156bb2543a33848f390dd75ec1126e45bcc72537383b204342"
 metafile = true
 
 [[files]]
