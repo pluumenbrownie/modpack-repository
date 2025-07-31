@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe V5.0.6_ Create 6.0.6.zip"
-hash = "0cc248115301e0e2da6865465e54bc06aa292b666622e4902f096809d73e245b"
+file = "config/paxi/datapacks/Big_Globe_V5.0.6_Create_V6.0.6.zip"
+hash = "0f8e6d90f30677eb6b81116d9beb71a285430f316a49ef6444eb382c6ce06e86"
+
+[[files]]
+file = "config/paxi/datapacks/Big_Globe_V5.0.6_Tidal_Towns_V1.3.4.zip"
+hash = "c0b42646ac4b689ff78dbe80fb22adb5f270ad8487cccc3d46b2381147b65ac1"
 
 [[files]]
 file = "config/paxi/datapacks/big-globe-compat-choicetheorems-overhauled-village.pw.toml"
@@ -23,10 +27,6 @@ metafile = true
 file = "config/paxi/datapacks/big-globe-compat-philips-ruins.pw.toml"
 hash = "dc5ff79f664ba007baabaf7db787b8e8cfc35db37d329d86af0b950398ab515e"
 metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/bigglobe_tidaltowns_for_V5.0.6.zip"
-hash = "af81360ae2867e490f9653d687da9b7d12604b10051531f138f527fe59be8abd"
 
 [[files]]
 file = "config/paxi/resourcepacks/Big_Globe_retex_by_shes_long_1.2.zip"
@@ -93,8 +93,43 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "bbe41c6629eca553fed13d7b3fee895a4d8008fc77d93cf12e3325e20ef2e3a6"
+metafile = true
+
+[[files]]
+file = "mods/create-cheese.pw.toml"
+hash = "5ee28df27b17ee4a91939e162276383c817f0ecf5f14684177dd12994ce09118"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "0177b98d7552743df5bd62e45d2efe012d8d416c53f94735a0d4074468f5a2ca"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
 metafile = true
 
 [[files]]
@@ -153,6 +188,11 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
+metafile = true
+
+[[files]]
 file = "mods/euphonium.pw.toml"
 hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
 metafile = true
@@ -180,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "be75fa97845b24c102d33441e3f1e9a24d0ab622d57b031c0d0f6888ce5927a5"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "9d99ba0b966242b05c160244c45e0dcdafdb4627d4993b05a4ede0321d7f2680"
 metafile = true
 
 [[files]]
