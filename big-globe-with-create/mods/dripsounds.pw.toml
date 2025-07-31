@@ -1,13 +1,13 @@
 name = "Drip Sounds"
-filename = "Drip Sounds-0.5.0+1.21.5-NeoForge.jar"
+filename = "Drip Sounds-0.5.1+1.21.5-NeoForge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/jkT5xwtq/Drip%20Sounds-0.5.0%2B1.21.5-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/9CTlGpQF/Drip%20Sounds-0.5.1%2B1.21.5-NeoForge.jar"
 hash-format = "sha512"
-hash = "8a1b8807c2d9dca0d1b0fd16dbd7c61df305ab8ecd730976ad7f4bffb49fd058fd689409e7b5ac61c1a75a02c8de62430891107b496fc9379e74e9046e65b9b0"
+hash = "6de9a2940f1a9937a8f42eb53b8f7ac3764fd867c1c63d4aa5041b1246582b70e530a9b338edc1fa690fd5876557c6d0a29ab96ae12811b1ebc19d7cf7d744b3"
 
 [update]
 [update.modrinth]
 mod-id = "T8MMXTpr"
-version = "jkT5xwtq"
+version = "9CTlGpQF"
