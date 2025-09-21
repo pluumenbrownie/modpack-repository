@@ -1,0 +1,13 @@
+name = "Dimensionalized 3D Essentials"
+filename = "§6Dimensionalized Essentials 1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BiLh6qyB/versions/StqfPWxv/%C2%A76Dimensionalized%20Essentials%201.21.1.zip"
+hash-format = "sha512"
+hash = "035059ce13c30c5023c7ca82f6a17644d5279acd4a91f2e658f3e165fd2d84db5d3250c68de494f65989067b345ee31fc6425463962c4aef4135ad32b26c39c0"
+
+[update]
+[update.modrinth]
+mod-id = "BiLh6qyB"
+version = "StqfPWxv"

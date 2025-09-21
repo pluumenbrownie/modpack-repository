@@ -1,0 +1,13 @@
+name = "Deeper MC"
+filename = "Deeper MC v1.0 1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eK9yQLpt/versions/LtrWtuQe/Deeper%20MC%20v1.0%201.21.8.zip"
+hash-format = "sha512"
+hash = "8c1c8cb82b43c4845bec631805a9aff5777bfea904c6fec4ad6906ba1ea64e51bb37dd9f01bdacaf62679cacf6c5d744ed438189b028a632422f587d2759c910"
+
+[update]
+[update.modrinth]
+mod-id = "eK9yQLpt"
+version = "LtrWtuQe"
