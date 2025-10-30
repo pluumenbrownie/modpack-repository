@@ -1,13 +1,13 @@
 name = "Vertigo"
-filename = "Vertigo-1.1.4-MC1.21.1.jar"
+filename = "Vertigo-1.1.6-MC1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4LzgJp1j/versions/p8a7H3ff/Vertigo-1.1.4-MC1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4LzgJp1j/versions/7sj0WSc4/Vertigo-1.1.6-MC1.21.1.jar"
 hash-format = "sha512"
-hash = "1b48f9a944fe5e5dd88c545776bddeb26a1e72a13609f5d4cf7a1a46bca22e74bd35fa04940232fb4eba7af1aa9ef17f4e7cfed05e356b000d12e4489e842b28"
+hash = "094ea6b3f814eae85fc0b94a8f2deff41269d0fb3f06b729a5bd0c1c913ddb4d1304e2a689d106075caa37b78e2c0f043e1e7f5bf0948316127fc37a528df41f"
 
 [update]
 [update.modrinth]
 mod-id = "4LzgJp1j"
-version = "p8a7H3ff"
+version = "7sj0WSc4"
