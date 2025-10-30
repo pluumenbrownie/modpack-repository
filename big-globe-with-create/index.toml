@@ -68,6 +68,11 @@ hash = "63c508a1f82d4c3f58dcb0b1ad758fcf0318df062262a438d28f6b2243df095b"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "66d6a153c156b11e472bb4c226bb3a88b519cac4cf306904f6308965b8fe5333"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "df38bd557d9d549bd4db699c3efec071ca24017541ce6359a96d0385b7463b22"
 metafile = true
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "e821ee9757493ab64961588bad86d2292477fb2d1b1ce2f80ba9b246a55cec6d"
 metafile = true
 
 [[files]]
@@ -555,6 +565,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
+file = "resourcepacks/caelesti.pw.toml"
+hash = "4d51468012511420ce3d8152d55cc21eaabcd5e2af1f90bdb6967ba4786e7f3a"
 metafile = true
 
 [[files]]

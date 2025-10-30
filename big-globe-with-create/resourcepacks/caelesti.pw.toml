@@ -1,0 +1,13 @@
+name = "Caelesti"
+filename = "Caelesti Update 46.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sznRHpx/versions/H6Gq2MlD/Caelesti%20Update%2046.zip"
+hash-format = "sha512"
+hash = "738c117c07b9b067544f2d87eb9cbc47aa9cfd38743aa36e542e0b07920ae28bbd6182beba430cafd465f847b92c707b39517c7f15caf6fd839e0cd5bf7e93b7"
+
+[update]
+[update.modrinth]
+mod-id = "4sznRHpx"
+version = "H6Gq2MlD"
