@@ -1,13 +1,13 @@
 name = "Stellar View"
-filename = "Stellar View-1.21.1-0.5.1-NeoForge.jar"
+filename = "Stellar View-1.21.1-0.5.2-NeoForge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iairjv0A/versions/twyfDEJn/Stellar%20View-1.21.1-0.5.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/Iairjv0A/versions/QD13LaRR/Stellar%20View-1.21.1-0.5.2-NeoForge.jar"
 hash-format = "sha512"
-hash = "72bb5c9aa65fe8c88dde38a39b71f9b47667302082de2b448da727311bd620baa0e235fd86a074727bb612f63bf67ea593768da48a63f104ab30a5acbad9ec14"
+hash = "76040793d7bae9dd2b557f4f8c1bc6eeb00521ba21582bff2c57a91b0d5709e5c0a9c1ba980f48e96aebde2a64d288d58df885ecaf82178fae8eb5fbd0982b55"
 
 [update]
 [update.modrinth]
 mod-id = "Iairjv0A"
-version = "twyfDEJn"
+version = "QD13LaRR"

@@ -33,8 +33,18 @@ file = "config/paxi/resourcepacks/Big_Globe_retex_by_shes_long_1.2.zip"
 hash = "1fb66db49b86b5530b2f6c54b8927d58316d6b5ba3f94fa20ee8fe2586d79c00"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fb413ba504cfaae8ab4d96ede3944b8eb15fa4238ae02b4331bdad2549876f2e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "1d39c4b2c4554ef1532b3f0d22e6a06d8750ce11acb2f51ba7d78868c7f4cdb7"
 metafile = true
 
 [[files]]
@@ -55,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "5ebc1849da4c78f57b8f4cde4320d5409ea9244e372d50afc6362ee88d66dd50"
 metafile = true
 
 [[files]]
@@ -79,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "df38bd557d9d549bd4db699c3efec071ca24017541ce6359a96d0385b7463b22"
+hash = "f80000f8a5c3e9abdb0d2a926fd67fd6191dcb1b710f0cdbf0ab26ec53b0a8bf"
 metafile = true
 
 [[files]]
@@ -159,12 +174,17 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "f36d13fe08a755712437ae38d4a339af7a73003152a8d3638984a11964fd83ae"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "ac938235375a39bb489ab594baa553e88dd4805cbe1e03b377c83cadc4b3e3a5"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
@@ -234,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "83c97ad1350b02f50975927999e385ce53404b1fea35f898347453be5d69b5cb"
+hash = "f783b651d205662c70661f62f95cf30c7ec2ddd536970a04924663b7e8a18e88"
 metafile = true
 
 [[files]]
@@ -299,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "076be436a9dd1df44f71473123db01ad52b26afce495615d91ec5150e1960d98"
+hash = "68e555e2c925017ccd7864862b30da4314a14b43db9b8b48fdf7546c1632495e"
 metafile = true
 
 [[files]]
@@ -364,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+hash = "6e4155b4c0bdc2cbb051544db6a8253f95e8cae6f4e72a497d37ec39570f0a3d"
 metafile = true
 
 [[files]]
@@ -375,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f8080690eb60f050db45b1f3a1400c2b0ff5614912344a1ab9e8b80d3d2fa4dd"
 metafile = true
 
 [[files]]
@@ -504,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "f95c58806a9f91ab4af193c7041fac66d488bddc9471c3b74702447debe04359"
+hash = "3792d649d29e5c684218283dcb787cca922ac74524730ae04118768aaed5cccf"
 metafile = true
 
 [[files]]
@@ -515,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "46d28a5f6168b55be612a6f5d616dd0a28bb33f8bf2c6b23c30c0bae17e8ae3c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
 metafile = true
 
 [[files]]
