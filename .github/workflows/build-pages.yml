@@ -23,11 +23,16 @@ jobs:
     env:
       MDBOOK_VERSION: 0.4.36
       TOML_VERSION: 0.2.3
+      CARGO_TERM_COLOR: always
     steps:
       - uses: actions/checkout@v4
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - run: rustup toolchain install stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          cache-all-crates: "true"
       - name: Set REPO_URL variable
         run: |
           REPO_URL="${{ steps.pages.outputs.base_url }}"
