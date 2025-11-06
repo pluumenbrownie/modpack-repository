@@ -143,6 +143,11 @@ hash = "c602d7f6d79303c84b333da9188415baee535a597b1cbfc0d52b701dab3935e0"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "b80ba09f8b13a9678d734d6ebe3c009c61f12b316246e3341bd7a23a52c0bd47"
 metafile = true
 
 [[files]]

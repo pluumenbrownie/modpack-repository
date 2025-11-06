@@ -1,0 +1,13 @@
+name = "Dawn of Time"
+filename = "dawnoftimebuilder-neoforge-1.21.1-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgWXq0La/versions/GzjWpt0P/dawnoftimebuilder-neoforge-1.21.1-1.6.4.jar"
+hash-format = "sha512"
+hash = "2a1d3fb3bd0553d5de5beea9cd0bccdae32c51be17acadb791d9a858c640d1ffb8dc064a736ee5a81a8ecbeb6a67e9088e988b1f22a12e2f4b614271621c8b09"
+
+[update]
+[update.modrinth]
+mod-id = "RgWXq0La"
+version = "GzjWpt0P"
