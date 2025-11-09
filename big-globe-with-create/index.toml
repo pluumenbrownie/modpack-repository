@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bigglobe/mixins.properties"
+hash = "ad2f38bb17be5ac1991aff338dc5628e42e7aaf647d4aaa2781c0f06c9657b9e"
+
+[[files]]
 file = "config/paxi/datapacks/Big_Globe_V5.0.6_Create_V6.0.6.zip"
 hash = "0f8e6d90f30677eb6b81116d9beb71a285430f316a49ef6444eb382c6ce06e86"
 
@@ -84,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "63c508a1f82d4c3f58dcb0b1ad758fcf0318df062262a438d28f6b2243df095b"
+hash = "bb79ca0039f9b554551949e24ae9cefae425e94845a364ed325532af005ba196"
 metafile = true
 
 [[files]]
