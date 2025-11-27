@@ -1,13 +1,13 @@
 name = "Big Globe Compat - Dungeons and Taverns"
-filename = "Big Globe - DnT Compat 1.1.3.zip"
+filename = "Big Globe - DnT Compat 1.1.5.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/37H8OQF2/versions/ZsfFon3F/Big%20Globe%20-%20DnT%20Compat%201.1.3.zip"
+url = "https://cdn.modrinth.com/data/37H8OQF2/versions/C7xatI2z/Big%20Globe%20-%20DnT%20Compat%201.1.5.zip"
 hash-format = "sha512"
-hash = "e0814775a07c8dea7fc74e4fe5f2fce3522c5b75dc5db8760c2fc5df58a8de0b3a5bfec41bfe7feb48e363be3353e083d6b72b6d779b3412e03b2071a6fc05ea"
+hash = "72fa2c531c0992a95d4a38f6c645ac27f277c0920a6a3f2cbed22c0cb7340c8aecb34897d2f0789961280fe671ffe82399d4b89662fd6365919c776e9068b3ca"
 
 [update]
 [update.modrinth]
 mod-id = "37H8OQF2"
-version = "ZsfFon3F"
+version = "C7xatI2z"

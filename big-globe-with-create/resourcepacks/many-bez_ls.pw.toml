@@ -1,0 +1,13 @@
+name = "Many Bez_LS (BLS/Balbes)"
+filename = "Many Bez_LS.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXmQSKmD/versions/og7BEDqK/Many%20Bez_LS.zip"
+hash-format = "sha512"
+hash = "2fdd3c6540f493eee93d79a3ba35d84bbd70a3f8da3408ea215feaad6e6df8503dbf4b09753a492093a79eb7189d88fe292f708992b29ed5c9a8c8c1e9296aab"
+
+[update]
+[update.modrinth]
+mod-id = "AXmQSKmD"
+version = "og7BEDqK"

@@ -1,13 +1,13 @@
 name = "Puzzle"
-filename = "puzzle-neoforge-2.0.1.1+1.21.jar"
+filename = "puzzle-neoforge-2.2.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3IuO68q1/versions/rwJQkaY5/puzzle-neoforge-2.0.1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/hC76gvAj/puzzle-neoforge-2.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "201021b3f675d4b76a11ba8d268f6d5d7d2407ed65432b1abaa4cc92215f832e680779e2dda9ecb9bbccc759b34efc12068d3069e654923684683ce489943650"
+hash = "6f730390712d9bd1449512f90af1157a05d4f2b9a1d52183f104e85fa97a5b97508e7cc95e4bf8507b1b314fc11c22c0668df5253a573696b27064c34375fb06"
 
 [update]
 [update.modrinth]
 mod-id = "3IuO68q1"
-version = "rwJQkaY5"
+version = "hC76gvAj"
