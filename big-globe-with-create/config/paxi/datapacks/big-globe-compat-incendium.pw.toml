@@ -1,0 +1,13 @@
+name = "Big Globe Compat - Incendium"
+filename = "Big Globe - Incendium Compat 1.2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1wmRgOAw/versions/iXJQR7r6/Big%20Globe%20-%20Incendium%20Compat%201.2.2.zip"
+hash-format = "sha512"
+hash = "3cc2296a19938e04043bf06c43dd557287b02e66ab73cdd82769158ff62d17269ac84664926680966898f175738a152b69e94d80063645d28de2b9bf5bb6d192"
+
+[update]
+[update.modrinth]
+mod-id = "1wmRgOAw"
+version = "iXJQR7r6"

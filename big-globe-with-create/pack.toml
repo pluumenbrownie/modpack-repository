@@ -1,16 +1,16 @@
 name = "Big Globe With Create"
 author = "pluumenbrownie"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ecc05e015eaff2e2f530efd4da93e7cc550983709478f9eca21996f1c875969f"
+hash = "d2b16caf326ad692f346803dc713fd86b90b92fe004e7521c8ca52aa989f83f3"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.213"
+neoforge = "21.1.217"
 
 [options]
 datapack-folder = "config/paxi/datapacks"

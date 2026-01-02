@@ -1,0 +1,13 @@
+name = "Big Globe Compat - Sky Villages"
+filename = "Big Globe - Sky Villages Compat 1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sYYi5gVj/versions/IDrrY0Sq/Big%20Globe%20-%20Sky%20Villages%20Compat%201.0.1.zip"
+hash-format = "sha512"
+hash = "ff1738c6f14bff1bc57fe7aca05f3093db603ad513808aa6f1ce02a98b37d7db52ebb522a273b647e2782505e48dbfddf5f19cc3a49313386199e856778ab2e1"
+
+[update]
+[update.modrinth]
+mod-id = "sYYi5gVj"
+version = "IDrrY0Sq"

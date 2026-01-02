@@ -1,0 +1,13 @@
+name = "Big Globe - RareSky"
+filename = "Big Globe - RareSky 1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/268CEqx1/versions/Yt5O2grv/Big%20Globe%20-%20RareSky%201.1.jar"
+hash-format = "sha512"
+hash = "416fb857ec8ecc16097faaf6ba64063ceaab1e33818067efd8d949f2b7bb13b9938e547d9725b370bdfd285321d6d640355b44dc82a7b1d653ac712790be5344"
+
+[update]
+[update.modrinth]
+mod-id = "268CEqx1"
+version = "Yt5O2grv"
