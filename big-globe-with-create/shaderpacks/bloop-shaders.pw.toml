@@ -1,13 +1,13 @@
 name = "Bloop Shaders"
-filename = "Bloop-1.7.0-cloud-fix-2.zip"
+filename = "1.8.0-Alpha-1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q6RQF9Oa/versions/gYcFi3fy/Bloop-1.7.0-cloud-fix-2.zip"
+url = "https://cdn.modrinth.com/data/Q6RQF9Oa/versions/4AzJxJ2x/1.8.0-Alpha-1.zip"
 hash-format = "sha512"
-hash = "bb55b50f16f4bcaf9b013e7ea58548d118f4d0fb4c74a9c53d09cce7a1388588ec39c0106577d0915ad9c0a4a550d05ef6e753d942d2843967ecf66086c4f35f"
+hash = "3053bb3414389d9fa15683a5d74c54a026d3b209addceaefdc9d0a1226fc4499d378a1d572ffe753fb2c6b5704126198e09e67f80869bad03b3baf0ed48e19bd"
 
 [update]
 [update.modrinth]
 mod-id = "Q6RQF9Oa"
-version = "gYcFi3fy"
+version = "4AzJxJ2x"

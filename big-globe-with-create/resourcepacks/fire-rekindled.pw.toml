@@ -3,11 +3,11 @@ filename = "Fire_Rekindled.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lBQSreft/versions/VLcJz5n8/Fire_Rekindled.zip"
+url = "https://cdn.modrinth.com/data/lBQSreft/versions/WkrPuvYe/Fire_Rekindled.zip"
 hash-format = "sha512"
-hash = "7132f94e6e816c7ca08e38103b2c682ea8a37ce1d24911234d273f226441e122a45e442379dfb0a7fca4f599ff2736ac646f75b0e0e398df42ca2009b1061b7a"
+hash = "038f1b0b106ed9b06a9b026ef4f8e60c4de43b0a56e7074610ca9c320c9983643062465ce2a0188d69e31bc5da50266866ca85f347882aa8297b6d75b323062f"
 
 [update]
 [update.modrinth]
 mod-id = "lBQSreft"
-version = "VLcJz5n8"
+version = "WkrPuvYe"
