@@ -157,6 +157,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
@@ -172,8 +177,18 @@ hash = "c2c9722dccc2c97c9a1c41c689fd9152011d0fe790274e69a9a88589bda55dc5"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+metafile = true
+
+[[files]]
+file = "mods/create-deepfried.pw.toml"
+hash = "e9afa1bedf69f55371e69527092499bec0c8b7aaaea064b57e364d294f6159c7"
 metafile = true
 
 [[files]]
@@ -187,6 +202,11 @@ hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
 metafile = true
@@ -197,8 +217,33 @@ hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
 metafile = true
 
 [[files]]
+file = "mods/create-factory.pw.toml"
+hash = "98254f2a21610591829644e067bcd86af78b7b8429c9a15e7470a11f453ab7fe"
+metafile = true
+
+[[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "64fd3b9674bbb56fc6e59f7873c12ee78e568db00df5b91f12ba077f7668e556"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "c218f11a134ff349836cf9d074851390d230a012c1cab77c862223c97910b68a"
+metafile = true
+
+[[files]]
+file = "mods/create-low-heated.pw.toml"
+hash = "99d747f63009dc0ab5fb1ffcb48e098f96582ac9bde58603c4c9ca1ffe9bb6db"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
 
 [[files]]
@@ -217,6 +262,11 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
+metafile = true
+
+[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
@@ -224,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]
@@ -512,6 +567,11 @@ hash = "880e51166c531f473f9bdef251a6c42c6d13f4283bcc8e27d66999aef57c9a59"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "03d918dc96059d14b2b041b6baf9084dd89c5031ff29e87d6e3cf75d100e1b47"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
@@ -564,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/sky-villages.pw.toml"
 hash = "65ae5274b963d5b15e22cd3680b2ac6851f3fa5669b3914c496b45148a18a5a7"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
