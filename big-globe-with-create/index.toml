@@ -427,6 +427,11 @@ hash = "dd18a83618d87de69fa341e775e58f3e7df6452eb657ae9f95125461c1eb0a3c"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "6d789717321d42a219af38835ba6e74447e6ec2aee9a7cda8dcacb848d787746"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
@@ -449,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "c54b102e4f659be6aaf95290191279fc34db7404006f645dbf04be21038e837b"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "b00d95521c30ec7a29440ef9c6f32e91300450bf3ad098b2a63ebbe7cb5b43c8"
 metafile = true
 
 [[files]]
@@ -499,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
+metafile = true
+
+[[files]]
+file = "mods/modefite-item-definition-backport.pw.toml"
+hash = "b559e05fbf46f64b754be90c6d7855fec07cd317ec6ce97c83e9fc235fe0bd0c"
 metafile = true
 
 [[files]]
@@ -577,6 +592,11 @@ hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "2dcc07c62e9e0901e5fabe0ebf8ed522245a9ad78086aa9ae6e38935ddba2b3d"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "748d7eb08f3d2c362aebf9ee417706b181257b7d5f4a2003ec93340d5b7b881d"
 metafile = true
@@ -594,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
 
 [[files]]
@@ -674,6 +699,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "599e373cbd3ff6fbe64a00ec53a5275fe583e60d3c5593508d13d1846e329952"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
@@ -777,8 +807,18 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "f8f5d86fbdab5a7278165cebf7555423c646ce7e971e4f52c76c4567cffc79cc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/os-colorful-grasses.pw.toml"
 hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-buckets.pw.toml"
+hash = "84ff9bc3e42fa154f27a4dce50d684ad1829fa927dd12335aa18a6a11cc2bea5"
 metafile = true
 
 [[files]]
@@ -794,6 +834,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/untitled-punchies.pw.toml"
+hash = "09df353e8be0d559cb8f6a71f7de659e905a6c0c4d123ff44556b30801367acc"
 metafile = true
 
 [[files]]

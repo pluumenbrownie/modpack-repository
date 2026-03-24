@@ -1,0 +1,13 @@
+name = "Ixeris"
+filename = "Ixeris-4.1.5+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/YvcDLLqE/Ixeris-4.1.5%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "9b7828bc71cc1306415e04065a6eed8946056a4d8a49ea15063393d368171b88f81ad27973f771bd1f3ac3f1750d54be724ca00b136955726d1224014b60567d"
+
+[update]
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "YvcDLLqE"
