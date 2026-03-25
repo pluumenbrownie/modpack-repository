@@ -1,13 +1,13 @@
 name = "Hyper Punchy"
-filename = "HyperPunchy - v1.2.6.zip"
+filename = "HyperPunchy-v2.4+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NVBMhec4/versions/JxuOpgnA/HyperPunchy%20-%20v1.2.6.zip"
+url = "https://cdn.modrinth.com/data/NVBMhec4/versions/qq4ZWWj8/HyperPunchy-v2.4%2B.zip"
 hash-format = "sha512"
-hash = "5665e12791a963d65523d37a4934220a94481ca362d7daa0f286830428e04bd9648b6b2a8249da4bf63cec96ca5efaffbef026d1eaeecf929fcf822c41b31b23"
+hash = "0390be37d643bd9743cd9a928ea4295b2c07485e99b3c0d416a9001605d4d9b2a41b1fae0cba67fd6fcef2b1379a18c62469ced2b02652e20a22438126d385c4"
 
 [update]
 [update.modrinth]
 mod-id = "NVBMhec4"
-version = "JxuOpgnA"
+version = "qq4ZWWj8"
