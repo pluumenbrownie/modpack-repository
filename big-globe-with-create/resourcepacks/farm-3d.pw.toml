@@ -1,13 +1,13 @@
 name = "Farm 3D"
-filename = "Farm 3D.zip"
+filename = "Farm 3D - Heycronus.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pb23xuCB/versions/9qQvPJ1I/Farm%203D.zip"
+url = "https://cdn.modrinth.com/data/Pb23xuCB/versions/DKVuhyuu/Farm%203D%20-%20Heycronus.zip"
 hash-format = "sha512"
-hash = "70cb734bfeff5c5c8e64563835d21d75dd70c9a1c5288a5b4b231e2e765353d6eca034ca7b4c246b47e3f3bf2ec97e53f01684ded062c49d4fe0f1e3d81ce757"
+hash = "08f4d087cca777a4da15daeb823003a247d893dab4b470e8bb74e4a246f81914ee5627148180240f2abbd870fb20a0b9f0745ebcad8e4318f5b3c5c8c42d2d8c"
 
 [update]
 [update.modrinth]
 mod-id = "Pb23xuCB"
-version = "9qQvPJ1I"
+version = "DKVuhyuu"

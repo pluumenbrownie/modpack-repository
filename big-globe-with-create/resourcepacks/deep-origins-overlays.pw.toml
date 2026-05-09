@@ -1,13 +1,13 @@
 name = "Deep Origins Overlays"
-filename = "Deep.origins.overlays§8.reworked_v2.0-Beta-1.1_1.17-26.1.zip"
+filename = "deep.origins.overlays§8_reworked_beta2_1.20.2-26.1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tOCRtfAR/versions/4owzLpmn/Deep.origins.overlays%C2%A78.reworked_v2.0-Beta-1.1_1.17-26.1.zip"
+url = "https://cdn.modrinth.com/data/tOCRtfAR/versions/56CvmTv4/deep.origins.overlays%C2%A78_reworked_beta2_1.20.2-26.1.2.zip"
 hash-format = "sha512"
-hash = "1955fac7430b3b0336b1e645b87a0eb123f0e03989e42b9811752db9d4a29049630ba22fa919347d0275ff6866f149ad96ac5ff1354295608053461de62dc88c"
+hash = "699ed83f50075e6e2f572d04360381dfd8082c8a963e97f316a3e35a8a9f598ebdf593410436d7747b1bf745924d4f5b549325f693aaa7d6397a2ad674be025a"
 
 [update]
 [update.modrinth]
 mod-id = "tOCRtfAR"
-version = "4owzLpmn"
+version = "56CvmTv4"

@@ -1,13 +1,13 @@
 name = "Untitled Punchies"
-filename = "§5Untitled §6Punchies §fv1.0.zip"
+filename = "§5Untitled §6Punchies §fv1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NmfLbiMs/versions/mnyvZicG/%C2%A75Untitled%20%C2%A76Punchies%20%C2%A7fv1.0.zip"
+url = "https://cdn.modrinth.com/data/NmfLbiMs/versions/hjmQDDlS/%C2%A75Untitled%20%C2%A76Punchies%20%C2%A7fv1.1.zip"
 hash-format = "sha512"
-hash = "c124b2f1970f673e84314a89b03b11f2061ef51bfda220e056ef62aa758cd35a9e1b5fb6b477946c4ac76e6fb89b042ca35499d96a23922c1127e7bc4af6868d"
+hash = "bdaa1673b2ad6e421198793c327c1f06679db9592bf6ac39b46d4285b58fc4d4c6a220146bd297f1cd542981e3771fbe453c2d3241e88cfe80dcfc1246a4b5ec"
 
 [update]
 [update.modrinth]
 mod-id = "NmfLbiMs"
-version = "mnyvZicG"
+version = "hjmQDDlS"
