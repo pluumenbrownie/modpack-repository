@@ -712,11 +712,6 @@ hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
 
 [[files]]
-file = "mods/the-roads-more-travelled.pw.toml"
-hash = "506e17ae28577e6b45bcc516c015dbab1f023679c339d4a0d140eff79b6ef724"
-metafile = true
-
-[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
 metafile = true
