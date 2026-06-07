@@ -137,11 +137,6 @@ hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -833,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/deep-origins-overlays.pw.toml"
-hash = "35482eed1d05d6d05ecbd2e0520c32c30a0024de5b5e6403e4d7e9f44b3e89c8"
+hash = "fa21806ffb04232267b077cc193b6b59f66b76395b3f145d094ef5de9cf47bde"
 metafile = true
 
 [[files]]
